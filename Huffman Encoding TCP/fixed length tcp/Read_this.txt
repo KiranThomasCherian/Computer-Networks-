@@ -1,0 +1,6 @@
+Note:
+Works for files with only capital letters(no space too)
+update g++ and then compile.
+Use miore than one alphabet.
+Like
+AAAABCHOIPDFFFF
