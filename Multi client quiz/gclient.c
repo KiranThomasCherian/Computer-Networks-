@@ -18,7 +18,7 @@ struct sockaddr_in client;
 memset(&client,0,sizeof(client));
 client.sin_family=AF_INET;
 client.sin_port=htons(9009);
-client.sin_addr.s_addr=inet_addr("40.88.2.46");
+client.sin_addr.s_addr=inet_addr("127.0.0.1");  //use sever ip
 if(connect(c_sock,(struct sockaddr*)&client,sizeof(client))==-1)
 {
 printf("error ,server seems to down or game member limit reached,exiting..\n");
