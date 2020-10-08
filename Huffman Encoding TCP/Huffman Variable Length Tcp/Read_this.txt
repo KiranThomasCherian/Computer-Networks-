@@ -1,0 +1,2 @@
+NOTE: Works only to send files with only capital letter (no space tooo) ,like :
+ABVVCDHRTICDMHF
