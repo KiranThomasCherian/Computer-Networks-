@@ -1,0 +1,3 @@
+Data compression is another utility performed in data communication to improve the faster data transfer and effective utilization of channel bandwidth. Each message from the source is first compressed and then route it to the destination. In this lab assignment, you have to transfer a file contained the message of charter encoded like "aabbccaadd" using the compression technique.
+1: Variable length Huffman coding
+2: constant length of Huffman coding.
