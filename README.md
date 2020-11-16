@@ -5,8 +5,11 @@ Socket Programming Practicals :
 
 ----------------------------------------------------------------------------------------------
 >Tcp,udp client server calculator program
+
 >Tcp,udp client server mp3 and text file transfer program
+
 >Tcp,udp client server video transfer program
+
 >Tcp,udp client server bitmap image transfer program
 
 --------------------------------------------------------------------------------------------------
