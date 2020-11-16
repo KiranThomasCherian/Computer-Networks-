@@ -1,6 +1,6 @@
 # Computer-Networks-
 
-Semester 5 CN assignments and practice codes
+Semester 5 CN assignments and
 Socket Programming Practicals :
 
 ----------------------------------------------------------------------------------------------
