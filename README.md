@@ -15,7 +15,8 @@ Socket Programming Practicals :
 --------------------------------------------------------------------------------------------------
 ### Huffman encoding to transfer data between tcp client server
 ------------------------------------------------------------------------------------------------------------
-### Simulation of flow control protocols in client server model : -Stop and wait, stop and wait ARQ, go back n,selective repeat 
+### Simulation of flow control protocols in client server model : 
+>Stop and wait, stop and wait ARQ, go back n, selective repeat 
 ----------------------------------------------------------------------------------------------------------------
 
 ## Multi-threaded HTTP server   
