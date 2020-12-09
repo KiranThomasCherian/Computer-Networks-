@@ -18,8 +18,10 @@ Socket Programming Practicals :
 ### Simulation of flow control protocols in client server model : -Stop and wait, stop and wait ARQ, go back n,selective repeat 
 ----------------------------------------------------------------------------------------------------------------
 
-## Multi-threaded HTTP server   (CLI , python3)
-Final Project- Multi-threaded HTTP server: User can create a html page on the http server and client access the page through client side server program. After enabling this service any user can create a website hosting like web server provided on the internet (Hostgater , BigRock and many other web server). Implement TCP client and TCP HTTP server
+## Multi-threaded HTTP server   
+>Final Project- Multi-threaded HTTP server: User can create a html page on the http server and client access the page through client side server program. After enabling this service any user can create a website hosting like web server provided on the internet (Hostgater , BigRock and many other web server). Implement TCP client and TCP HTTP server
+
+-Command Line Interface Implemtation in python3
 
 -------------------------------------------------------------------------------------------------------------------
 ## Multi client quiz : 
